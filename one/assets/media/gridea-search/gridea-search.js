@@ -1,4 +1,3 @@
-/* eslint-disable no-caller */
 /**
  * https://github.com/tangkaichuan/gridea-search
  */
