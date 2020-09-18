@@ -57,13 +57,6 @@
       "group": "展示",
       "value": false,
       "type": "switch"
-    },
-    {
-      "name": "busuanzi",
-      "label": "不蒜子访问统计",
-      "group": "展示",
-      "value": false,
-      "type": "switch"
     }
   ]
 }
