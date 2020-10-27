@@ -6,6 +6,20 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "6337472",
+      "name": "字体颜色",
+      "font_class": "words-sm",
+      "unicode": "ec85",
+      "unicode_decimal": 60549
+    },
+    {
+      "icon_id": "12823361",
+      "name": "24_日历",
+      "font_class": "calendar",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
       "icon_id": "12149644",
       "name": "菜单-钉住2",
       "font_class": "top",
@@ -25,20 +39,6 @@
       "font_class": "rss",
       "unicode": "e698",
       "unicode_decimal": 59032
-    },
-    {
-      "icon_id": "31117",
-      "name": "字体大小-im",
-      "font_class": "words-sm",
-      "unicode": "e618",
-      "unicode_decimal": 58904
-    },
-    {
-      "icon_id": "3544183",
-      "name": "时间",
-      "font_class": "time-sm",
-      "unicode": "e65c",
-      "unicode_decimal": 58972
     },
     {
       "icon_id": "13253939",
