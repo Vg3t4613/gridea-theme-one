@@ -6,11 +6,11 @@
   "description": "",
   "glyphs": [
     {
-      "icon_id": "6337472",
-      "name": "字体颜色",
-      "font_class": "words-sm",
-      "unicode": "ec85",
-      "unicode_decimal": 60549
+      "icon_id": "142053",
+      "name": "tag",
+      "font_class": "tag-sm",
+      "unicode": "e8c1",
+      "unicode_decimal": 59585
     },
     {
       "icon_id": "12823361",
@@ -41,11 +41,11 @@
       "unicode_decimal": 59032
     },
     {
-      "icon_id": "13253939",
-      "name": "tag",
-      "font_class": "tag-sm",
-      "unicode": "e61d",
-      "unicode_decimal": 58909
+      "icon_id": "166666",
+      "name": "字体设置",
+      "font_class": "words-sm",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
     },
     {
       "icon_id": "1163347",
