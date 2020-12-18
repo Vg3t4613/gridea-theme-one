@@ -2,12 +2,12 @@
 <script src="https://unpkg.com/disqusjs@1.1/dist/disqus.js"></script>
 <div id="disqus_thread"></div>
 <script>
-  var options = {
-    shortname: '<%= commentSetting.disqusSetting.shortname %>',
-    apikey: '<%= commentSetting.disqusSetting.apikey %>',
-  }
-  if ('<%= commentSetting.disqusSetting.api %>') {
-    options.api = '<%= commentSetting.disqusSetting.api %>'
-  }
-  var dsqjs = new DisqusJS(options)
+    var options = {
+        shortname: '<%= commentSetting.disqusSetting.shortname %>',
+        apikey: '<%= commentSetting.disqusSetting.apikey %>',
+    }
+    if ('<%= commentSetting.disqusSetting.api %>') {
+        options.api = '<%= commentSetting.disqusSetting.api %>'
+    }
+    var dsqjs = new DisqusJS(options)
 </script>

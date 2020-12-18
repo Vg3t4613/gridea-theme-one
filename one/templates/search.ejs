@@ -6,18 +6,18 @@
 </head>
 
 <body>
-    <div class="main animated">
-        <%- include('./includes/header') %>
-        <div id="gridea-search-result" data-update="<%= site.utils.now %>">
-            <p class="searching">搜索中......</p>
-            <p class="no-result" style="display:none">未搜索到相关文章</p>
-        </div>
+<div class="main animated">
+    <%- include('./includes/header') %>
+    <div id="gridea-search-result" data-update="<%= site.utils.now %>">
+        <p class="searching">搜索中......</p>
+        <p class="no-result" style="display:none">未搜索到相关文章</p>
     </div>
-    <%- include('./includes/footer') %>
-    <script src="<%= themeConfig.domain %>/media/gridea-search/result-template.ejs" type="text/ejs"></script>
-    <script src="<%= themeConfig.domain %>/media/gridea-search/fuse.basic.min.js"></script>
-    <script src="<%= themeConfig.domain %>/media/gridea-search/ejs.min.js"></script>
-    <script src="<%= themeConfig.domain %>/media/gridea-search/gridea-search.js"></script>
+</div>
+<%- include('./includes/footer') %>
+<script src="<%= themeConfig.domain %>/media/gridea-search/result-template.ejs" type="text/ejs"></script>
+<script src="<%= themeConfig.domain %>/media/gridea-search/fuse.basic.min.js"></script>
+<script src="<%= themeConfig.domain %>/media/gridea-search/ejs.min.js"></script>
+<script src="<%= themeConfig.domain %>/media/gridea-search/gridea-search.js"></script>
 </body>
 
 </html>
